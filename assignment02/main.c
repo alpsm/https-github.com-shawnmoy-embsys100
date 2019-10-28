@@ -6,7 +6,7 @@ struct scope{
 struct scope scope1;
  scope1.counter=0xFFFFFFFF; 
  scope1.counter++;
- scope1. counter++;
+ scope1.counter++;
  scope1.counter++;
  scope1.counter++;
  scope1.counter++;

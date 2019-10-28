@@ -1,0 +1,226 @@
+[
+  {
+    "ID": "c:main.c@836@macro@RCC_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_BASE",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "RCC_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@865@macro@RCC_AHB1ENR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_AHB1ENR",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "RCC_AHB1ENR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@922@macro@GPIOA_BASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_BASE",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "GPIOA_BASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@953@macro@GPIOA_MODER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_MODER",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "GPIOA_MODER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1012@macro@GPIOA_ODR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_ODR",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "GPIOA_ODR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@letter",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void letter(char *, int)",
+    "location": {
+      "column": "6",
+      "line": "28",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "letter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@morseDot",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void morseDot(void)",
+    "location": {
+      "column": "6",
+      "line": "29",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "morseDot",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@morseDash",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void morseDash(void)",
+    "location": {
+      "column": "6",
+      "line": "30",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "morseDash",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "32",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1273@F@main@firstName",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "firstName",
+    "location": {
+      "column": "6",
+      "line": "39",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "firstName",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@morseDot",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void morseDot(void)",
+    "location": {
+      "column": "6",
+      "line": "45",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "morseDot",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1396@F@morseDot@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "5",
+      "line": "48",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@morseDash",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void morseDash(void)",
+    "location": {
+      "column": "6",
+      "line": "61",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "morseDash",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1617@F@morseDash@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "5",
+      "line": "64",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@letter",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void letter(char *, int)",
+    "location": {
+      "column": "6",
+      "line": "77",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "letter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1822@F@letter@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "11",
+      "line": "78",
+      "path": "C:\\UW_Workspace\\Assignments\\03\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  }
+]
