@@ -1,4 +1,4 @@
-/*Fill-In Fill-Out,
+/*First-In First-Out,
 Condensed,
 12-05-19, smoy*/
 
@@ -6,7 +6,7 @@ Condensed,
 
 int main(){
 
-int array[3]={5,2,9};                //Declare and initialize array.
+int array[3]={5,7,9};                //Declare and initialize array.
 
 int backIndicate;                    //Declare variable. 
 int *frontIndicate;                  //Declare pointer.
