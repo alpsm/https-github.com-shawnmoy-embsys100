@@ -20,8 +20,8 @@ printf("\n");
 
 for(i=0, backIndicate=0;  i<3; i++, backIndicate++){ //Trace elements.
 	printf("%d ", *frontIndicate);
-	++frontIndicate;
-	array[backIndicate]=0;	
+	array[backIndicate]=0;
+	++frontIndicate;	
 	printf("%d ", array[backIndicate]);
 	}
 printf("\n");
