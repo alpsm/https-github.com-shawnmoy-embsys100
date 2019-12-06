@@ -30,7 +30,7 @@ for(i=0; i<3; i++){                                  //Retrace elements.
 	printf("%d ", *frontIndicate);
 	}
 printf("\n");
-printf("%d %d %d", array[0], array[1], array[3]);    //Zero indices.
+printf("%d %d %d", array[0], array[1], array[2]);    //Zero indices.
 printf("\n");
 return 0;
 }
