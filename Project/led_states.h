@@ -1,7 +1,7 @@
 #ifndef __LED_STATES_H__
 #define __LED_STATES_H__
 
-enum ledState{
+enum LED_STATE{
 LED_OFF, 
 LED_SOLID, 
 LED_BLINK_SLOW, 
